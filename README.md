@@ -1,2 +1,2 @@
 # Faculdade
-exercicios e trabalhos feitos na faculdade
+Exercícios e trabalhos feitos na faculdade
