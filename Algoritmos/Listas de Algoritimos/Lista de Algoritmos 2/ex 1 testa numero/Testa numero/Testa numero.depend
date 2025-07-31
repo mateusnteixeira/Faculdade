@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730588656 source:c:\users\mateu\onedrive\listas de algoritimos\lista de algoritmos 2\ex 1 testa numero\testa numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730736631 source:c:\users\mateu\onedrive\listas de algoritimos\lista de algoritmos 4\ex 3 distancia de 2 pontos\distancia pontos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

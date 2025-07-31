@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732295115 source:c:\users\mateu\onedrive\faculdade\algoritmos\trabalho 1\teste 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
